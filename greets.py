@@ -1,5 +1,5 @@
 greetings=['hello',
-           'hi',
+           'how are you?',
            'hey'
            'good morning'
            ]
